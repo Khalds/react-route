@@ -1,0 +1,15 @@
+.feature__page {
+  text-align: center;
+  color: #fff;
+}
+
+.feature__page h1 {
+  font-size: 36px;
+}
+
+.feature__page p {
+  font-size: 18px;
+  margin: 20px auto;
+  width: 85%;
+  font-weight: 300;
+}

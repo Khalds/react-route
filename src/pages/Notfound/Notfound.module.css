@@ -1,0 +1,16 @@
+.not__found {
+  color: #fff;
+  font-size: 72px;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.not__found a {
+  color: rgba(255, 255, 255, 0.25);
+  text-decoration: none;
+}
+
+.not__found a:hover {
+  color: #fff;
+  border-bottom: 8px solid #fff;
+}

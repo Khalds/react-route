@@ -1,0 +1,10 @@
+.contact__page {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  gap: 20px;
+}
+.contact__page div {
+  color: #fff;
+  font-size: 18px;
+}
